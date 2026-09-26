@@ -1,0 +1,11 @@
+Keyword(new)
+Keyword(text)
+Identifier(My_word)
+EndOfLine
+Identifier(My_word)
+Operator(:=)
+StringConst("mühendislik")
+EndOfLine
+Keyword(output)
+Identifier(My_word)
+EndOfLine

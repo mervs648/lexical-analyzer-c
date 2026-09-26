@@ -1,0 +1,6 @@
+Keyword(new)
+Keyword(text)
+Identifier(s)
+EndOfLine
+Identifier(s)
+Operator(:=)

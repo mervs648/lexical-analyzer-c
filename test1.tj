@@ -1,0 +1,9 @@
+new text myText;
+new int x;
+
+myText := "hello";
+x := 123;
+
+myText := myText + " world";
+
+output myText;

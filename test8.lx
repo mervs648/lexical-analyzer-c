@@ -1,0 +1,6 @@
+Identifier(s)
+Operator(:=)
+StringConst("bilgisayar")
+Operator(+)
+StringConst(" mühendisliği")
+EndOfLine

@@ -1,0 +1,25 @@
+Keyword(new)
+Keyword(text)
+Identifier(myText)
+EndOfLine
+Keyword(new)
+Keyword(int)
+Identifier(x)
+EndOfLine
+Identifier(myText)
+Operator(:=)
+StringConst("hello")
+EndOfLine
+Identifier(x)
+Operator(:=)
+IntConst(123)
+EndOfLine
+Identifier(myText)
+Operator(:=)
+Identifier(myText)
+Operator(+)
+StringConst(" world")
+EndOfLine
+Keyword(output)
+Identifier(myText)
+EndOfLine

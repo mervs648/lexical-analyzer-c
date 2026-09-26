@@ -1,0 +1,3 @@
+new text My_word;
+My_word := "mühendislik";
+output My_word;

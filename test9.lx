@@ -1,0 +1,8 @@
+Identifier(x)
+Operator(:=)
+Keyword(size)
+OpenParanthesis
+Identifier(myText)
+CloseParanthesis
+EndOfLine
+
